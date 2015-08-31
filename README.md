@@ -6,6 +6,7 @@
 Clone this repo and then run the following commands in order:
 
 - `npm install`
+- `mkdir platforms`
 - `cordova platform add browser`
 - `cordova plugin add phonegap-plugin-barcodescanner`
 
