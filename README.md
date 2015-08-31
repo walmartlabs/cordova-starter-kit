@@ -3,7 +3,11 @@
 
 ###Getting Started
 
-Clone this repo and then run the following commands in order:
+Start by installing cordova globally:
+
+`npm install cordova -g`
+
+Next, clone this repo and then run the following commands in order:
 
 - `npm install`
 - `mkdir platforms`
