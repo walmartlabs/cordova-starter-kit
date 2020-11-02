@@ -1,3 +1,11 @@
+***
+# NOTICE:
+
+## This repository has been archived and is not supported.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+***
+
 ##cordova-starter-kit
 > A simple starter project that uses the Walmart API to return and display product data from a barcode scan/entry
 
